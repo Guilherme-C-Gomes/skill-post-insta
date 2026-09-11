@@ -1,0 +1,34 @@
+{
+  "titulo": "Triagem de caso",
+  "slides": [
+    {
+      "tipo": "capa",
+      "kicker": "Funil de escritório",
+      "titulo": "O caso não sumiu.//Ele esfriou//esperando resposta.",
+      "texto": "Onde o lead do escritório se perde entre o primeiro contato e a consulta."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Três pontos onde o caso esfria",
+      "itens": [
+        "Contato entra fora do horário e ninguém vê até o dia seguinte.",
+        "Triagem depende de quem está livre, e o critério muda a cada dia.",
+        "Ninguém sabe por qual canal o caso entrou, então não há o que corrigir."
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "kicker": "O que muda",
+      "titulo": "Organizar a demanda que já chegou",
+      "texto": "Triagem com critério fixo, tempo de resposta medido e origem registrada do primeiro contato até o CRM.",
+      "cta": "Comentários abertos",
+      "dica": "salva para depois"
+    }
+  ],
+  "legenda": "Escritório que responde em minutos não é escritório mais rápido, é escritório com processo.",
+  "hashtags": [
+    "#advocacia",
+    "#gestaojuridica",
+    "#crm"
+  ]
+}
